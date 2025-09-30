@@ -1,0 +1,40 @@
+{
+  "templates": [
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/about",
+          "uuid": "885d57a42cc1461c6d5b0009da39392526862bba"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/experience",
+          "uuid": "53f2475d085bbf6aa3086be22c55ab2e2ce3ae4b"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/projects",
+          "uuid": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/contact",
+          "uuid": "2bd9fd0a5dadccdcfbdcbecf9fde06432c01393f"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/blog",
+          "uuid": "076b68482552cced2b900118d2cb11cff1dfb2f2"
+        }
+      ]
+    },
+    {
+      "name": "Profile Page Template",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/",
+          "uuid": "c89f9f5f72d94195a789798005a1a7651d5da4e1"
+        }
+      ]
+    }
+  ]
+}
