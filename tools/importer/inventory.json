@@ -1,0 +1,362 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/blog",
+          "urlHash": "076b68482552cced2b900118d2cb11cff1dfb2f2",
+          "uuid": "076b6848-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
+          "xpath": "/html[1]/body[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/contact",
+          "urlHash": "2bd9fd0a5dadccdcfbdcbecf9fde06432c01393f",
+          "uuid": "2bd9fd0a-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
+          "xpath": "/html[1]/body[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/experience",
+          "urlHash": "53f2475d085bbf6aa3086be22c55ab2e2ce3ae4b",
+          "uuid": "53f2475d-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
+          "xpath": "/html[1]/body[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/about",
+          "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
+          "uuid": "885d57a4-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
+          "xpath": "/html[1]/body[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/",
+          "urlHash": "c89f9f5f72d94195a789798005a1a7651d5da4e1",
+          "uuid": "c89f9f5f-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
+          "xpath": "/html[1]/body[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/projects",
+          "urlHash": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c",
+          "uuid": "d1fca7f6-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
+          "xpath": "/html[1]/body[1]/div[1]/nav[1]"
+        }
+      ],
+      "styles": {
+        "height": 65,
+        "background": "oklab(0.21 -0.00316127 -0.0338527 / 0.8) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/blog",
+          "urlHash": "076b68482552cced2b900118d2cb11cff1dfb2f2",
+          "uuid": "076b6848-04-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/contact",
+          "urlHash": "2bd9fd0a5dadccdcfbdcbecf9fde06432c01393f",
+          "uuid": "2bd9fd0a-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/experience",
+          "urlHash": "53f2475d085bbf6aa3086be22c55ab2e2ce3ae4b",
+          "uuid": "53f2475d-03-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/about",
+          "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
+          "uuid": "885d57a4-06-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/",
+          "urlHash": "c89f9f5f72d94195a789798005a1a7651d5da4e1",
+          "uuid": "c89f9f5f-03-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/projects",
+          "urlHash": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c",
+          "uuid": "d1fca7f6-04-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Columns",
+      "cluster": 1,
+      "source": "Columns block",
+      "target": "Columns block (columns1)",
+      "key": "columns1",
+      "instances": [
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/",
+          "urlHash": "c89f9f5f72d94195a789798005a1a7651d5da4e1",
+          "uuid": "c89f9f5f-01-6e3ca3be7d086abaf1cd59b3e9b1faafc4271948",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages2)",
+      "key": "cardsNoImages2",
+      "instances": [
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/",
+          "urlHash": "c89f9f5f72d94195a789798005a1a7651d5da4e1",
+          "uuid": "c89f9f5f-02-45ae101f9cbb00d32b50857ee66be73eabdf0ecb",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 3,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages3)",
+      "key": "cardsNoImages3",
+      "instances": [
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/about",
+          "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
+          "uuid": "885d57a4-03-69c1a9e19345857901f5ad9d6939794190675792",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 4,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages4)",
+      "key": "cardsNoImages4",
+      "instances": [
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/blog",
+          "urlHash": "076b68482552cced2b900118d2cb11cff1dfb2f2",
+          "uuid": "076b6848-03-a7ffa77f59d6425cb85d06697fffae2af5eaa609",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 5,
+      "source": "Header",
+      "target": "Header (header5)",
+      "key": "header5",
+      "instances": [
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/blog",
+          "urlHash": "076b68482552cced2b900118d2cb11cff1dfb2f2",
+          "uuid": "076b6848-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
+          "xpath": "/html[1]/body[1]/div[1]/nav[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/contact",
+          "urlHash": "2bd9fd0a5dadccdcfbdcbecf9fde06432c01393f",
+          "uuid": "2bd9fd0a-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
+          "xpath": "/html[1]/body[1]/div[1]/nav[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/experience",
+          "urlHash": "53f2475d085bbf6aa3086be22c55ab2e2ce3ae4b",
+          "uuid": "53f2475d-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
+          "xpath": "/html[1]/body[1]/div[1]/nav[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/about",
+          "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
+          "uuid": "885d57a4-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
+          "xpath": "/html[1]/body[1]/div[1]/nav[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/",
+          "urlHash": "c89f9f5f72d94195a789798005a1a7651d5da4e1",
+          "uuid": "c89f9f5f-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
+          "xpath": "/html[1]/body[1]/div[1]/nav[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/projects",
+          "urlHash": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c",
+          "uuid": "d1fca7f6-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
+          "xpath": "/html[1]/body[1]/div[1]/nav[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 6,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages6)",
+      "key": "cardsNoImages6",
+      "instances": [
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/experience",
+          "urlHash": "53f2475d085bbf6aa3086be22c55ab2e2ce3ae4b",
+          "uuid": "53f2475d-02-a7ffa77f59d6425cb85d06697fffae2af5eaa609",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 7,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages7)",
+      "key": "cardsNoImages7",
+      "instances": [
+        {
+          "url": "https://personal-site-gamma-five.vercel.app/projects",
+          "urlHash": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c",
+          "uuid": "d1fca7f6-03-a7ffa77f59d6425cb85d06697fffae2af5eaa609",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/blog",
+      "urlHash": "076b68482552cced2b900118d2cb11cff1dfb2f2",
+      "uuid": "076b6848-01-b295441a978df34cb3edad9a984b86c12c551b4c",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/blog",
+      "urlHash": "076b68482552cced2b900118d2cb11cff1dfb2f2",
+      "uuid": "076b6848-02-d2c1b04d4936a3b1071e47ce6705a82edd395079",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/p[1]"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/blog",
+      "urlHash": "076b68482552cced2b900118d2cb11cff1dfb2f2",
+      "uuid": "076b6848-04-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/contact",
+      "urlHash": "2bd9fd0a5dadccdcfbdcbecf9fde06432c01393f",
+      "uuid": "2bd9fd0a-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/contact",
+      "urlHash": "2bd9fd0a5dadccdcfbdcbecf9fde06432c01393f",
+      "uuid": "2bd9fd0a-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/experience",
+      "urlHash": "53f2475d085bbf6aa3086be22c55ab2e2ce3ae4b",
+      "uuid": "53f2475d-01-b295441a978df34cb3edad9a984b86c12c551b4c",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/experience",
+      "urlHash": "53f2475d085bbf6aa3086be22c55ab2e2ce3ae4b",
+      "uuid": "53f2475d-03-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/about",
+      "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
+      "uuid": "885d57a4-01-a7ffa77f59d6425cb85d06697fffae2af5eaa609",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/about",
+      "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
+      "uuid": "885d57a4-02-d2c893e7856c5569222f8768b931c4ccec9e90f1",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[2]/h2[1]"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/about",
+      "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
+      "uuid": "885d57a4-04-87b45918a3d04ebcec21a5697b34ae3e5b959af7",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/about",
+      "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
+      "uuid": "885d57a4-05-c000e3be9f3b96973bff2c258afe247f3c7b07ca",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/about",
+      "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
+      "uuid": "885d57a4-06-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/",
+      "urlHash": "c89f9f5f72d94195a789798005a1a7651d5da4e1",
+      "uuid": "c89f9f5f-03-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/projects",
+      "urlHash": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c",
+      "uuid": "d1fca7f6-01-b295441a978df34cb3edad9a984b86c12c551b4c",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/projects",
+      "urlHash": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c",
+      "uuid": "d1fca7f6-02-d2c1b04d4936a3b1071e47ce6705a82edd395079",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/p[1]"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/projects",
+      "urlHash": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c",
+      "uuid": "d1fca7f6-04-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]",
+      "section": "section-2"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "oklab(0.21 -0.00316127 -0.0338527 / 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 6
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 6
+    },
+    {
+      "name": "section-3",
+      "background": "oklch(0.985 0.002 247.839) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    }
+  ]
+}
