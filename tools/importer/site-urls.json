@@ -1,0 +1,69 @@
+{
+  "originUrl": "https://personal-site-gamma-five.vercel.app",
+  "aborted": false,
+  "lastCrawled": "https://personal-site-gamma-five.vercel.app/",
+  "urls": [
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "c89f9f5f72d94195a789798005a1a7651d5da4e1"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/about",
+      "source": "CRAWL",
+      "targetPath": "/about",
+      "id": "885d57a42cc1461c6d5b0009da39392526862bba"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/blog",
+      "source": "CRAWL",
+      "targetPath": "/blog",
+      "id": "076b68482552cced2b900118d2cb11cff1dfb2f2"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/contact",
+      "source": "CRAWL",
+      "targetPath": "/contact",
+      "id": "2bd9fd0a5dadccdcfbdcbecf9fde06432c01393f"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/experience",
+      "source": "CRAWL",
+      "targetPath": "/experience",
+      "id": "53f2475d085bbf6aa3086be22c55ab2e2ce3ae4b"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/projects",
+      "source": "CRAWL",
+      "targetPath": "/projects",
+      "id": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/_next/static/media/a34f9d1faa5f3315-s.p.woff2",
+      "status": "content type is not text/html. Content type: font/woff2"
+    },
+    {
+      "url": "https://personal-site-gamma-five.vercel.app/blog/building-modern-web-app-nextjs-sanity",
+      "status": "The operation was aborted due to timeout"
+    }
+  ],
+  "errorCountMessage": "{\"others\":2}",
+  "error": null
+}
