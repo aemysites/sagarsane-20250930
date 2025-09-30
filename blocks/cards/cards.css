@@ -25,3 +25,103 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
+
+.cards.cardsnoimages2 {
+  background-color: #f8f9fa;
+  background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='1' cy='1' r='1' fill='%23e5e7eb'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  padding: 48px 0;
+}
+
+.cards.cardsnoimages2 > ul {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  max-width: 1000px;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (width <= 1100px) {
+  .cards.cardsnoimages2 > ul {
+    grid-template-columns: 1fr;
+    max-width: 600px;
+  }
+}
+
+/* Card styling */
+.cards.cardsnoimages2 > ul > li {
+  background: #fff;
+  border: none;
+  border-radius: 16px;
+  box-shadow: 0 2px 16px rgb(60 60 60 / 9%);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  min-width: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Card inner body styling */
+.cards.cardsnoimages2 .cards-card-body {
+  padding: 32px 28px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+/* Headings */
+.cards.cardsnoimages2 .cards-card-body h3 {
+  font-size: 1.13rem;
+  font-weight: 700;
+  color: #212325;
+  margin-bottom: 12px;
+  margin-top: 0;
+  line-height: 1.22;
+}
+
+/* Paragraphs */
+.cards.cardsnoimages2 .cards-card-body p {
+  font-size: 1.01rem;
+  font-weight: 400;
+  color: #6c6b7e;
+  margin-bottom: 16px;
+  margin-top: 0;
+}
+
+/* Call-to-action link container */
+.cards.cardsnoimages2 .cards-card-body .button-container {
+  margin-top: auto;
+  text-align: left;
+}
+
+/* Button/link styling override */
+.cards.cardsnoimages2 .cards-card-body .button {
+  background: none;
+  color: #6C63FF;
+  border: none;
+  font-size: 1.01rem;
+  font-weight: 600;
+  padding: 0;
+  margin: 0;
+  box-shadow: none;
+  text-decoration: none;
+  display: inline;
+  border-radius: 0;
+  line-height: 1.6;
+  transition: color 0.2s;
+}
+
+.cards.cardsnoimages2 .cards-card-body .button:hover,
+.cards.cardsnoimages2 .cards-card-body .button:focus {
+  text-decoration: underline;
+}
