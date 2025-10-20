@@ -1,19 +1,649 @@
 {
   "originUrl": "https://www.canon.ca",
   "aborted": false,
-  "lastCrawled": "https://www.canon.ca/en/home",
+  "lastCrawled": "https://www.canon.ca/",
   "urls": [
     {
+      "url": "https://www.canon.ca/en/About-Canon/About-Canon",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/about-canon",
+      "id": "1ea50aaeebcdd64640deb91bde4aad07afb8c3c2"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/Accessibility-Statement",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/accessibility-statement",
+      "id": "fdd5d7f5fb04629d15b71c02e12defd80bc027b4"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/Canon-Organization",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/canon-organization",
+      "id": "fa7aa24c101dee610b60b48aab81c2b311293467"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/Corporate-Social-Responsibility",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/corporate-social-responsibility",
+      "id": "44be3d7eb13571a01a8b353e9eb04888a6807c9c"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/Corporate-Social-Responsibility/Community-Initiatives",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/corporate-social-responsibility/community-initiatives",
+      "id": "0d61ca6675e84735575f17e3a95856e7340cf22e"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/Corporate-Social-Responsibility/Environmental-Charter",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/corporate-social-responsibility/environmental-charter",
+      "id": "f163d687d4b42817b4a8fa3b2c519a2414572ba5"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/Corporate-Social-Responsibility/Sustainability-Reports",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/corporate-social-responsibility/sustainability-reports",
+      "id": "36767a0d6fea1b15dd6e4195959906e53c1aa857"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/Corporate-Social-Responsibility/Toner-Cartridge-Return-Program",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/corporate-social-responsibility/toner-cartridge-return-program",
+      "id": "5e1ceef85a755bcd5796e1c6df7b4876a366127b"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/Corporate-Social-Responsibility/Toner-Cartridge-Return-Program/FAQs",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/corporate-social-responsibility/toner-cartridge-return-program/faqs",
+      "id": "dec3714a0c8f885cb2fe9c431185b16bef792a45"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/Donations-and-Sponsorships",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/donations-and-sponsorships",
+      "id": "f371c29500d0e3df881cf9819dc3461e204cef32"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/Inside-Canon",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/inside-canon",
+      "id": "68a66b91bb57ed331bd779affae50370776f4ebb"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/Inside-Canon/2025/environmental-education-day-2025",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/inside-canon/2025/environmental-education-day-2025",
+      "id": "d61514c3706a210c4fd82a09ae0d7c22a416dd44"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/Inside-Canon/2025/image-wonderland-creator-event",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/inside-canon/2025/image-wonderland-creator-event",
+      "id": "4dc5f55c0fcb2cbaf3d0e3476370d144040d3807"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/News",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/news",
+      "id": "2997413ff3908d1e96462c4d681403d16801a80d"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/News/Press-Releases/2021/2021-DEC-20-EQUITY-INVESTMENT-SUPRA-ITS",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/news/press-releases/2021/2021-dec-20-equity-investment-supra-its",
+      "id": "0d3bbd746c8926142b1c4f5335be0c110178e9fd"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/News/Press-Releases/2025",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/news/press-releases/2025",
+      "id": "3c5fff98a710664deb8f2c09446e0e36da401cc5"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/News/Press-Releases/2025/20250326-New-PowerShot-EOS-V",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/news/press-releases/2025/20250326-new-powershot-eos-v",
+      "id": "0e1ea79a185add1520b891b3607af44df5aadcd1"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/News/Press-Releases/2025/20250402-PIXMA-TR160",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/news/press-releases/2025/20250402-pixma-tr160",
+      "id": "45bfee89757730e7bce8b124e44f215d8630296c"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/News/Press-Releases/2025/20250416-imagePROGRAF-TC21",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/news/press-releases/2025/20250416-imageprograf-tc21",
+      "id": "ce00f3c174fd24c3100f0b910d027742279a1e5a"
+    },
+    {
+      "url": "https://www.canon.ca/en/About-Canon/News/Press-Releases/2025/20250422-Greenest-Employers",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-canon/news/press-releases/2025/20250422-greenest-employers",
+      "id": "5949d065b4d3923836ec9359187befec468715a9"
+    },
+    {
+      "url": "https://www.canon.ca/en/Articles/2023/Canon-Camera-Buying-Guide",
+      "source": "SITEMAPS",
+      "targetPath": "/en/articles/2023/canon-camera-buying-guide",
+      "id": "11a4082e4e3038d00f1056a134d251e1a67de1c7"
+    },
+    {
+      "url": "https://www.canon.ca/en/Articles/2024/Behind-the-Lens-John-E-Marriott",
+      "source": "SITEMAPS",
+      "targetPath": "/en/articles/2024/behind-the-lens-john-e-marriott",
+      "id": "81411a54cea26f3a2f87e3103ff62a05777ea732"
+    },
+    {
+      "url": "https://www.canon.ca/en/Articles/2024/Behind-the-Lens-Rahma-Alim",
+      "source": "SITEMAPS",
+      "targetPath": "/en/articles/2024/behind-the-lens-rahma-alim",
+      "id": "e960df1b246222ca0afbe59d05b15ec234c50e9e"
+    },
+    {
+      "url": "https://www.canon.ca/en/Articles/2024/Canon-Cinematic-Video-Guide",
+      "source": "SITEMAPS",
+      "targetPath": "/en/articles/2024/canon-cinematic-video-guide",
+      "id": "c0854736b9c11fe4087cc769c7237dd59ff9932d"
+    },
+    {
+      "url": "https://www.canon.ca/en/Articles/2024/dslr-vs-mirrorless-guide",
+      "source": "SITEMAPS",
+      "targetPath": "/en/articles/2024/dslr-vs-mirrorless-guide",
+      "id": "f41028c2695649c6de40c37f8faa0ec3c92cf2b9"
+    },
+    {
+      "url": "https://www.canon.ca/en/Articles/2025/time-lapse-photography-tips",
+      "source": "SITEMAPS",
+      "targetPath": "/en/articles/2025/time-lapse-photography-tips",
+      "id": "ba8f544abb47020264e4cee1ec232ce257918ac2"
+    },
+    {
+      "url": "https://www.canon.ca/en/Articles/2025/videography-glossary",
+      "source": "SITEMAPS",
+      "targetPath": "/en/articles/2025/videography-glossary",
+      "id": "c0ab3dec2c08877fb507a28b0a9ae94079436ea0"
+    },
+    {
+      "url": "https://www.canon.ca/en/business",
+      "source": "SITEMAPS",
+      "targetPath": "/en/business",
+      "id": "12323645229caaf7628ca1a5920b84fe3f7af8e0"
+    },
+    {
+      "url": "https://www.canon.ca/en/business/Industry/Advertising",
+      "source": "SITEMAPS",
+      "targetPath": "/en/business/industry/advertising",
+      "id": "0056f3d05d2b5dac24f638a88e6cd11802b33bd3"
+    },
+    {
+      "url": "https://www.canon.ca/en/business/Industry/Real-Estate",
+      "source": "SITEMAPS",
+      "targetPath": "/en/business/industry/real-estate",
+      "id": "9e23c4a0cabcc1fd30afdc93a5ad6936d5959578"
+    },
+    {
+      "url": "https://www.canon.ca/en/business/Learn-More/Branch-Locations",
+      "source": "SITEMAPS",
+      "targetPath": "/en/business/learn-more/branch-locations",
+      "id": "933498630aeb1f71c942bd772b09fed75c9b2ad0"
+    },
+    {
+      "url": "https://www.canon.ca/en/business/Learn-More/Canon-Demo/Canon-Demo-iRADV",
+      "source": "SITEMAPS",
+      "targetPath": "/en/business/learn-more/canon-demo/canon-demo-iradv",
+      "id": "8d4a911826daa0ae49c3646fcbe75bca92c09f37"
+    },
+    {
+      "url": "https://www.canon.ca/en/business/Learn-More/Our-Commitment/Environment",
+      "source": "SITEMAPS",
+      "targetPath": "/en/business/learn-more/our-commitment/environment",
+      "id": "5c31b8cd5ecdc135b640cc0d27e91e5a9ef3f6b2"
+    },
+    {
+      "url": "https://www.canon.ca/en/business/Learn-More/Resources",
+      "source": "SITEMAPS",
+      "targetPath": "/en/business/learn-more/resources",
+      "id": "10db0d3dc88937c9be59cb32fddbca16b7f227d4"
+    },
+    {
+      "url": "https://www.canon.ca/en/Canon-Advantage/Canadian-Service-and-Support",
+      "source": "SITEMAPS",
+      "targetPath": "/en/canon-advantage/canadian-service-and-support",
+      "id": "ddd438ee71e1b3636db92c30f69e0603c776fd56"
+    },
+    {
+      "url": "https://www.canon.ca/en/Canon-Advantage/Canon-Creator-Essential-Services",
+      "source": "SITEMAPS",
+      "targetPath": "/en/canon-advantage/canon-creator-essential-services",
+      "id": "e8a8d3006d1cd51bfd7d8cabeb9a0ddfb9917902"
+    },
+    {
+      "url": "https://www.canon.ca/en/Canon-Advantage/Canon-Professional-Services",
+      "source": "SITEMAPS",
+      "targetPath": "/en/canon-advantage/canon-professional-services",
+      "id": "3192d0d7dea43c9d922c047d185c92bb47dc37d2"
+    },
+    {
+      "url": "https://www.canon.ca/en/consumer",
+      "source": "SITEMAPS",
+      "targetPath": "/en/consumer",
+      "id": "44feded92d7a884a2139c57bfdd649e05ff090aa"
+    },
+    {
+      "url": "https://www.canon.ca/en/Contact-Support/Business/Office-Equipment",
+      "source": "SITEMAPS",
+      "targetPath": "/en/contact-support/business/office-equipment",
+      "id": "1ec108bad6c4bbe8de46cbadd9dd0fb942afa511"
+    },
+    {
+      "url": "https://www.canon.ca/en/Contact-Support/General-Corporate",
+      "source": "SITEMAPS",
+      "targetPath": "/en/contact-support/general-corporate",
+      "id": "172bbadea9ffa6bb0993c2504936991949d14fda"
+    },
+    {
+      "url": "https://www.canon.ca/en/Contact-Support/Pro-Photo-Video",
+      "source": "SITEMAPS",
+      "targetPath": "/en/contact-support/pro-photo-video",
+      "id": "b64e24cdf0369989f81ca1ea82c5a19b357168f1"
+    },
+    {
+      "url": "https://www.canon.ca/en/get-inspired",
+      "source": "SITEMAPS",
+      "targetPath": "/en/get-inspired",
+      "id": "dd6e8f6f25970ac996446f6f15c37d19cae5d76c"
+    },
+    {
       "url": "https://www.canon.ca/en/home",
-      "source": "CRAWL",
+      "source": "SITEMAPS",
       "targetPath": "/en/home",
       "id": "f33a64c343d5530b20d0a691f2ec907a25abf85f"
     },
     {
+      "url": "https://www.canon.ca/en/privacy",
+      "source": "SITEMAPS",
+      "targetPath": "/en/privacy",
+      "id": "30f50833a2c7d9b870688762d32486955d44c1e3"
+    },
+    {
+      "url": "https://www.canon.ca/en/pro-photo-video",
+      "source": "SITEMAPS",
+      "targetPath": "/en/pro-photo-video",
+      "id": "c3e07dd4e526cec2563d364af2fedfec23d46607"
+    },
+    {
+      "url": "https://www.canon.ca/en/product?name=EOS_C80&category=/en/products/Video-Cameras---PRO/Cinema-EOS-Cameras",
+      "source": "SITEMAPS",
+      "targetPath": "/en/product",
+      "id": "147343ba8e9598cc2518fa4b8f6e800bfb4435ce"
+    },
+    {
+      "url": "https://www.canon.ca/en/product?name=uniFLOW_Online&category=/en/products/Software-Solutions/Output-Management",
+      "source": "SITEMAPS",
+      "targetPath": "/en/product",
+      "id": "949f6e94c8ba29581f4d7c721ee83bc7e474b709"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Cameras/Compact-Digital-Cameras",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/cameras/compact-digital-cameras",
+      "id": "89f9336fb849e25ad3c7c3cba621f2aab822d89b"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Cameras/Compact-Digital-Cameras/Point-and-Shoot-Cameras",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/cameras/compact-digital-cameras/point-and-shoot-cameras",
+      "id": "29a705473f7c6d632b3e9d435d89bf168c2a5d2b"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Intelligent-Pay",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/intelligent-pay",
+      "id": "0e9f347afdf752e413221b228b054d584c6d64ce"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Intelligent-Pay/Contact-Us",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/intelligent-pay/contact-us",
+      "id": "c715b6b533dc5274344fd977ea498ec327f7f7b5"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/IT-Solutions",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/it-solutions",
+      "id": "1a9d2909026c325bdba258bef2421c76ce989322"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/IT-Solutions/Blogs/What-Does-Data-Security-Compliance-Mean-for-Small-Businesses-in-Canada",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/it-solutions/blogs/what-does-data-security-compliance-mean-for-small-businesses-in-canada",
+      "id": "5fe5f4049db52794685483c235b38e43c32792b9"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/IT-Solutions/Cybersecurity",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/it-solutions/cybersecurity",
+      "id": "367fb21eee552c9f1df1d48ea382b5ca7bf574d1"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/IT-Solutions/Managed-IT-Services/Help-Desk-IT-Services",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/it-solutions/managed-it-services/help-desk-it-services",
+      "id": "28447d202db80f31b10f30a90440a4b242e52f2b"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/Broadcast-Lenses/4K-UHD-Field-Box-Lenses",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/broadcast-lenses/4k-uhd-field-box-lenses",
+      "id": "6e85fd14f7bbbe5b47c28c256ca50c3a434a511a"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/Broadcast-Lenses/Studio-Lenses",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/broadcast-lenses/studio-lenses",
+      "id": "b87d7c14e051c89df877ad7adb8b249b1b039261"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/EF-Lenses",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/ef-lenses",
+      "id": "c54ef6c935e6bc10dc9206f4bc12c47a45855e31"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/EF-Lenses/Standard-Medium-Telephoto",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/ef-lenses/standard-medium-telephoto",
+      "id": "d45abb96ad5d7f9c3ccc6e5205e48ef5790ab5a9"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/EF-Lenses/Standard-Zoom",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/ef-lenses/standard-zoom",
+      "id": "e827b765e6484e16e5d8a60b01f304ca2cd3756f"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/EF-Lenses/Super-Telephoto",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/ef-lenses/super-telephoto",
+      "id": "c8682a5af4ae83f1f684face9c58452d0143ced2"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/EF-Lenses/Telephoto-Zoom",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/ef-lenses/telephoto-zoom",
+      "id": "e976a9c2e82cab99e9ab9d1b7c9a5a5ff74c3c74"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/Mount-Adapters",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/mount-adapters",
+      "id": "4c34cd351256772dff4b68f2b8df1c850f703d71"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/RF-Lens-World/cinemalens",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/rf-lens-world/cinemalens",
+      "id": "2c90f54c56c076eace04002a9b83ab539d96591f"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/RF-Lens-World/features/technology",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/rf-lens-world/features/technology",
+      "id": "8bb4d916750f6319c407b4ef6892c2dc58a29001"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/RF-Lens-World/history",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/rf-lens-world/history",
+      "id": "9ddff0b807f31edcc4bb19e7d773ace20171a92d"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/RF-Lens-World/knowledge",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/rf-lens-world/knowledge",
+      "id": "5cb23c925f7f38591eb73fd5c78623af8feb4b40"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/RF-Lens-World/knowledge/correction",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/rf-lens-world/knowledge/correction",
+      "id": "b31877eb9ae76c9036251a9cd8e6fbb3c3e1e97f"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/RF-Lens-World/knowledge/perspective",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/rf-lens-world/knowledge/perspective",
+      "id": "e448602b6e2e512e75a1879f7c145f4689af2569"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/RF-Lens-World/professional",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/rf-lens-world/professional",
+      "id": "f6d83439fb362b7e0d638b555047baeb32d5a979"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/RF-Lenses",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/rf-lenses",
+      "id": "75a827a51c531b1b223dfe422b7a52606de1d870"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Lenses/RF-Lenses/Ultra-Wide-Zoom",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/lenses/rf-lenses/ultra-wide-zoom",
+      "id": "d11c603a1ec397102df9757d2d4122e9655160d4"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Other-Products/Fax-Machines",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/other-products/fax-machines",
+      "id": "ce2d9677635b181309483132864db0067090e08a"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Other-Products/PTZ-and-Remote-Cameras",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/other-products/ptz-and-remote-cameras",
+      "id": "996d0f426c46bcb64b74c4d089ee07f574232629"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Other-Products/Wireless-Presenters",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/other-products/wireless-presenters",
+      "id": "562a1daad510caa35ba81fdce610cd3f7e411298"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers",
+      "id": "01dfc7e7df911e228b76b31708eea2fbc3ba6127"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers-and-All-in-Ones",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers-and-all-in-ones",
+      "id": "9159cb8a9683e6ad0d38a7b3fbfecc093f26250b"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers-and-All-in-Ones/Home-and-Photo-Printers",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers-and-all-in-ones/home-and-photo-printers",
+      "id": "618b3a3367dc4b4a827bb812fd52662f4a11fdc0"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers-and-All-in-Ones/Home-and-Photo-Printers/Document-and-Photo-Printers",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers-and-all-in-ones/home-and-photo-printers/document-and-photo-printers",
+      "id": "18527d9b882e8f624cf5b89ba26713ee06c9df2a"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers-and-All-in-Ones/Small-Office-and-Home-Office-Printers",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers-and-all-in-ones/small-office-and-home-office-printers",
+      "id": "4e3e0ef5992ef56744ed40ab5a2b3611ccaaa7c7"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers/Cable-Management-Printers/Portable-Solutions",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers/cable-management-printers/portable-solutions",
+      "id": "622b8341ab0abbba4499da246d7fd964b8fbb26c"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers/Large-Format-Printing",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers/large-format-printing",
+      "id": "10a471b3d0031569cc32c7ecff35a71dfc6d1e82"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers/Large-Format-Printing/Finishing",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers/large-format-printing/finishing",
+      "id": "872e3e17784d601e224935fbe6812ed16b4e57ad"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers/Office-Printers",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers/office-printers",
+      "id": "fbbbe04d910933f68a1a910e626492583826f319"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers/Office-Printers/Enterprise/Black---White-Multi-Function-Printers",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers/office-printers/enterprise/black-white-multi-function-printers",
+      "id": "bb68564a90b4d24f71e821e0e6b07d76896f0bd9"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers/Office-Printers/Enterprise/Colour-Multi-Function-Printers",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers/office-printers/enterprise/colour-multi-function-printers",
+      "id": "2dd62f02c3f8d70df7e283b2486e8d274bd855cb"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers/Office-Printers/imageRUNNER-ADVANCE-DX",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers/office-printers/imagerunner-advance-dx",
+      "id": "110f23aee276c7615b99feb8cc53df78e9d7a941"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers/Office-Printers/Medium-and-Large-Business/Black-and-White-Multi-Function-Printers",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers/office-printers/medium-and-large-business/black-and-white-multi-function-printers",
+      "id": "ba734a97a094f6da841ec4e827515a2d91422ebe"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers/Office-Printers/Medium-and-Large-Business/Colour-Single-Function-Printers",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers/office-printers/medium-and-large-business/colour-single-function-printers",
+      "id": "1fbb6113dad5e3bd266780e3ffb6dfc02f9541af"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers/Production-Printers/Cutsheet-Presses",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers/production-printers/cutsheet-presses",
+      "id": "57f95f12cb682bea75900a810fd426dbce8dbf3e"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers/Production-Printers/Cutsheet-Presses/Colour-Cutsheet-Presses",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers/production-printers/cutsheet-presses/colour-cutsheet-presses",
+      "id": "90efa60c346d1b8f68ab9f4c1457706138797c56"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Printers/Production-Printers/Sheetfed-Inkjet-Presses",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/printers/production-printers/sheetfed-inkjet-presses",
+      "id": "93b879c0799976ef77249ba3d2422fb185aa86a9"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Software-Solutions/Camera---Camcorder-Apps/EOS-Webcam-Utility-PRO",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/software-solutions/camera-camcorder-apps/eos-webcam-utility-pro",
+      "id": "f995b94d76f35dc81cadb79a961fbb877f23a3c9"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Software-Solutions/Device-Management",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/software-solutions/device-management",
+      "id": "749a70ea7e2d7df37b92d9f1c29ebc12260d92a1"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Software-Solutions/Production-Workflow",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/software-solutions/production-workflow",
+      "id": "97af3d9773daba3ef9c153954e28c84e1dec585f"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Video-Cameras---Consumer",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/video-cameras-consumer",
+      "id": "428120c3e189ab4a9a47b306e4171dbf9893c54d"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Video-Cameras---PRO/Professional-Camcorders/4K-UHD-Camcorders",
+      "source": "SITEMAPS",
+      "targetPath": "/en/products/video-cameras-pro/professional-camcorders/4k-uhd-camcorders",
+      "id": "17caaf5be4f79142580167c6f63d4f7e0bf42c6d"
+    },
+    {
+      "url": "https://www.canon.ca/en/sitemap",
+      "source": "SITEMAPS",
+      "targetPath": "/en/sitemap",
+      "id": "90b63233023044072611f780db4835e9a9724bfb"
+    },
+    {
+      "url": "https://www.canon.ca/en/Solutions/Professional-Solutions/Commercial-Printing",
+      "source": "SITEMAPS",
+      "targetPath": "/en/solutions/professional-solutions/commercial-printing",
+      "id": "2e104e9e16ca73b1655a91524fa781a788349f09"
+    },
+    {
+      "url": "https://www.canon.ca/en/terms",
+      "source": "SITEMAPS",
+      "targetPath": "/en/terms",
+      "id": "a22932ddc7fb5a149f845282bce888e5d5552cd2"
+    },
+    {
+      "url": "https://www.canon.ca/fr/a-propos-de-canon/nouvelles",
+      "source": "SITEMAPS",
+      "targetPath": "/fr/a-propos-de-canon/nouvelles",
+      "id": "436943719d0095fa98ece5118ac203990ecd0db3"
+    },
+    {
       "url": "https://www.canon.ca/fr/accueil",
-      "source": "CRAWL",
+      "source": "SITEMAPS",
       "targetPath": "/fr/accueil",
       "id": "d614014b9db96a78efb5bea66b1760f05e19e7d7"
+    },
+    {
+      "url": "https://www.canon.ca/fr/avantage-canon/Services-Essentiels-pour-les-Createurs",
+      "source": "SITEMAPS",
+      "targetPath": "/fr/avantage-canon/services-essentiels-pour-les-createurs",
+      "id": "a47ca3fc85b3911de41d4f61710fa1a523dbfccd"
+    },
+    {
+      "url": "https://www.canon.ca/fr/entreprise",
+      "source": "SITEMAPS",
+      "targetPath": "/fr/entreprise",
+      "id": "70875afb8f8023928ebb441091ee606e1aadde17"
+    },
+    {
+      "url": "https://www.canon.ca/fr/inspiration",
+      "source": "SITEMAPS",
+      "targetPath": "/fr/inspiration",
+      "id": "7e6c20e4a6eadb614fbd280cdb426da9fc541ffd"
+    },
+    {
+      "url": "https://www.canon.ca/fr/produits/Paiement-Ingenieux",
+      "source": "SITEMAPS",
+      "targetPath": "/fr/produits/paiement-ingenieux",
+      "id": "1d124b83fcdf804697bd9ca87b21ebd9924fdbdc"
+    },
+    {
+      "url": "https://www.canon.ca/fr/terms",
+      "source": "SITEMAPS",
+      "targetPath": "/fr/terms",
+      "id": "8bdd349723da257b7b79cab22219aedf0646056c"
     }
   ],
   "crawlOptions": {
@@ -23,14 +653,26 @@
     "limit": 100,
     "sameDomain": true,
     "keepHash": false,
-    "strategy": "crawl",
+    "strategy": "sitemaps",
     "logger": {},
     "strategiesAttempted": [
-      "SITEMAPS",
-      "CRAWL"
+      "SITEMAPS"
     ]
   },
-  "extractionErrors": [],
-  "errorCountMessage": "none",
+  "extractionErrors": [
+    {
+      "url": "https://www.canon.ca/en/Contact-Support/Business",
+      "status": "301 Moved Permanently Redirect: http://www.canon.ca/en/business/Service-Support"
+    },
+    {
+      "url": "https://www.canon.ca/en/products/Cameras/Accessories/Wireless-Remotes",
+      "status": "301 Moved Permanently Redirect: http://www.canon.ca/en/products/Cameras/Accessories/Remotes"
+    },
+    {
+      "url": "https://www.canon.ca/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.canon.ca/sitemap.xml): Error: HTML content found in sitemap.xml"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":2,\"others\":1}",
   "error": null
 }
