@@ -1,43 +1,19 @@
 {
-  "originUrl": "https://personal-site-gamma-five.vercel.app",
+  "originUrl": "https://www.canon.ca",
   "aborted": false,
-  "lastCrawled": "https://personal-site-gamma-five.vercel.app/",
+  "lastCrawled": "https://www.canon.ca/en/home",
   "urls": [
     {
-      "url": "https://personal-site-gamma-five.vercel.app/",
+      "url": "https://www.canon.ca/en/home",
       "source": "CRAWL",
-      "targetPath": "/",
-      "id": "c89f9f5f72d94195a789798005a1a7651d5da4e1"
+      "targetPath": "/en/home",
+      "id": "f33a64c343d5530b20d0a691f2ec907a25abf85f"
     },
     {
-      "url": "https://personal-site-gamma-five.vercel.app/about",
+      "url": "https://www.canon.ca/fr/accueil",
       "source": "CRAWL",
-      "targetPath": "/about",
-      "id": "885d57a42cc1461c6d5b0009da39392526862bba"
-    },
-    {
-      "url": "https://personal-site-gamma-five.vercel.app/blog",
-      "source": "CRAWL",
-      "targetPath": "/blog",
-      "id": "076b68482552cced2b900118d2cb11cff1dfb2f2"
-    },
-    {
-      "url": "https://personal-site-gamma-five.vercel.app/contact",
-      "source": "CRAWL",
-      "targetPath": "/contact",
-      "id": "2bd9fd0a5dadccdcfbdcbecf9fde06432c01393f"
-    },
-    {
-      "url": "https://personal-site-gamma-five.vercel.app/experience",
-      "source": "CRAWL",
-      "targetPath": "/experience",
-      "id": "53f2475d085bbf6aa3086be22c55ab2e2ce3ae4b"
-    },
-    {
-      "url": "https://personal-site-gamma-five.vercel.app/projects",
-      "source": "CRAWL",
-      "targetPath": "/projects",
-      "id": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c"
+      "targetPath": "/fr/accueil",
+      "id": "d614014b9db96a78efb5bea66b1760f05e19e7d7"
     }
   ],
   "crawlOptions": {
@@ -54,16 +30,7 @@
       "CRAWL"
     ]
   },
-  "extractionErrors": [
-    {
-      "url": "https://personal-site-gamma-five.vercel.app/_next/static/media/a34f9d1faa5f3315-s.p.woff2",
-      "status": "content type is not text/html. Content type: font/woff2"
-    },
-    {
-      "url": "https://personal-site-gamma-five.vercel.app/blog/building-modern-web-app-nextjs-sanity",
-      "status": "The operation was aborted due to timeout"
-    }
-  ],
-  "errorCountMessage": "{\"others\":2}",
+  "extractionErrors": [],
+  "errorCountMessage": "none",
   "error": null
 }
