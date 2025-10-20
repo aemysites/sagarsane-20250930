@@ -6,45 +6,21 @@
       "totalBoxes": 1,
       "instances": [
         {
-          "url": "https://personal-site-gamma-five.vercel.app/blog",
-          "urlHash": "076b68482552cced2b900118d2cb11cff1dfb2f2",
-          "uuid": "076b6848-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
-          "xpath": "/html[1]/body[1]/div[1]/nav[1]"
+          "url": "https://www.canon.ca/fr/accueil",
+          "urlHash": "d614014b9db96a78efb5bea66b1760f05e19e7d7",
+          "uuid": "d614014b-00-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
         },
         {
-          "url": "https://personal-site-gamma-five.vercel.app/contact",
-          "urlHash": "2bd9fd0a5dadccdcfbdcbecf9fde06432c01393f",
-          "uuid": "2bd9fd0a-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
-          "xpath": "/html[1]/body[1]/div[1]/nav[1]"
-        },
-        {
-          "url": "https://personal-site-gamma-five.vercel.app/experience",
-          "urlHash": "53f2475d085bbf6aa3086be22c55ab2e2ce3ae4b",
-          "uuid": "53f2475d-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
-          "xpath": "/html[1]/body[1]/div[1]/nav[1]"
-        },
-        {
-          "url": "https://personal-site-gamma-five.vercel.app/about",
-          "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
-          "uuid": "885d57a4-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
-          "xpath": "/html[1]/body[1]/div[1]/nav[1]"
-        },
-        {
-          "url": "https://personal-site-gamma-five.vercel.app/",
-          "urlHash": "c89f9f5f72d94195a789798005a1a7651d5da4e1",
-          "uuid": "c89f9f5f-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
-          "xpath": "/html[1]/body[1]/div[1]/nav[1]"
-        },
-        {
-          "url": "https://personal-site-gamma-five.vercel.app/projects",
-          "urlHash": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c",
-          "uuid": "d1fca7f6-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
-          "xpath": "/html[1]/body[1]/div[1]/nav[1]"
+          "url": "https://www.canon.ca/en/home",
+          "urlHash": "f33a64c343d5530b20d0a691f2ec907a25abf85f",
+          "uuid": "f33a64c3-00-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
         }
       ],
       "styles": {
-        "height": 65,
-        "background": "oklab(0.21 -0.00316127 -0.0338527 / 0.8) none repeat scroll 0% 0% / auto padding-box border-box"
+        "height": 62,
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box"
       }
     },
     {
@@ -53,40 +29,16 @@
       "totalBoxes": 1,
       "instances": [
         {
-          "url": "https://personal-site-gamma-five.vercel.app/blog",
-          "urlHash": "076b68482552cced2b900118d2cb11cff1dfb2f2",
-          "uuid": "076b6848-04-df2d8614774e18e1b8dccbc899c3c4aee180c525",
-          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+          "url": "https://www.canon.ca/fr/accueil",
+          "urlHash": "d614014b9db96a78efb5bea66b1760f05e19e7d7",
+          "uuid": "d614014b-13-157c68a7e65550906d51095d6faedc8d84e7d232",
+          "xpath": "/html[1]/body[1]/div[1]/div[8]/div[1]/div[1]/footer[1]/div[3]"
         },
         {
-          "url": "https://personal-site-gamma-five.vercel.app/contact",
-          "urlHash": "2bd9fd0a5dadccdcfbdcbecf9fde06432c01393f",
-          "uuid": "2bd9fd0a-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
-          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
-        },
-        {
-          "url": "https://personal-site-gamma-five.vercel.app/experience",
-          "urlHash": "53f2475d085bbf6aa3086be22c55ab2e2ce3ae4b",
-          "uuid": "53f2475d-03-df2d8614774e18e1b8dccbc899c3c4aee180c525",
-          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
-        },
-        {
-          "url": "https://personal-site-gamma-five.vercel.app/about",
-          "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
-          "uuid": "885d57a4-06-df2d8614774e18e1b8dccbc899c3c4aee180c525",
-          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
-        },
-        {
-          "url": "https://personal-site-gamma-five.vercel.app/",
-          "urlHash": "c89f9f5f72d94195a789798005a1a7651d5da4e1",
-          "uuid": "c89f9f5f-03-df2d8614774e18e1b8dccbc899c3c4aee180c525",
-          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
-        },
-        {
-          "url": "https://personal-site-gamma-five.vercel.app/projects",
-          "urlHash": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c",
-          "uuid": "d1fca7f6-04-df2d8614774e18e1b8dccbc899c3c4aee180c525",
-          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+          "url": "https://www.canon.ca/en/home",
+          "urlHash": "f33a64c343d5530b20d0a691f2ec907a25abf85f",
+          "uuid": "f33a64c3-13-157c68a7e65550906d51095d6faedc8d84e7d232",
+          "xpath": "/html[1]/body[1]/div[1]/div[8]/div[1]/div[1]/footer[1]/div[3]"
         }
       ],
       "styles": {
@@ -103,56 +55,113 @@
       "key": "columns1",
       "instances": [
         {
-          "url": "https://personal-site-gamma-five.vercel.app/",
-          "urlHash": "c89f9f5f72d94195a789798005a1a7651d5da4e1",
-          "uuid": "c89f9f5f-01-6e3ca3be7d086abaf1cd59b3e9b1faafc4271948",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[1]"
+          "url": "https://www.canon.ca/fr/accueil",
+          "urlHash": "d614014b9db96a78efb5bea66b1760f05e19e7d7",
+          "uuid": "d614014b-01-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.canon.ca/en/home",
+          "urlHash": "f33a64c343d5530b20d0a691f2ec907a25abf85f",
+          "uuid": "f33a64c3-01-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]"
         }
       ]
     },
     {
-      "name": "Cards (no images)",
+      "name": "Cards",
       "cluster": 2,
       "source": "Cards",
-      "target": "Cards (cardsNoImages2)",
-      "key": "cardsNoImages2",
+      "target": "Cards (cards2)",
+      "key": "cards2",
       "instances": [
         {
-          "url": "https://personal-site-gamma-five.vercel.app/",
-          "urlHash": "c89f9f5f72d94195a789798005a1a7651d5da4e1",
-          "uuid": "c89f9f5f-02-45ae101f9cbb00d32b50857ee66be73eabdf0ecb",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]",
-          "section": "section-3"
+          "url": "https://www.canon.ca/fr/accueil",
+          "urlHash": "d614014b9db96a78efb5bea66b1760f05e19e7d7",
+          "uuid": "d614014b-03-f8eeee0a6e48675e1ee00e79c6ed4ec03f6643e1",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.canon.ca/en/home",
+          "urlHash": "f33a64c343d5530b20d0a691f2ec907a25abf85f",
+          "uuid": "f33a64c3-03-f8eeee0a6e48675e1ee00e79c6ed4ec03f6643e1",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+          "section": "section-1"
         }
       ]
     },
     {
-      "name": "Cards (no images)",
+      "name": "Cards",
       "cluster": 3,
       "source": "Cards",
-      "target": "Cards (cardsNoImages3)",
-      "key": "cardsNoImages3",
+      "target": "Cards (cards3)",
+      "key": "cards3",
       "instances": [
         {
-          "url": "https://personal-site-gamma-five.vercel.app/about",
-          "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
-          "uuid": "885d57a4-03-69c1a9e19345857901f5ad9d6939794190675792",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]"
+          "url": "https://www.canon.ca/fr/accueil",
+          "urlHash": "d614014b9db96a78efb5bea66b1760f05e19e7d7",
+          "uuid": "d614014b-05-7a6cd1347c85aea75d81668b45bb484b96938eb6",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.canon.ca/fr/accueil",
+          "urlHash": "d614014b9db96a78efb5bea66b1760f05e19e7d7",
+          "uuid": "d614014b-08-3ee6f971de288ed1d5334293b983ec6af4dba44e",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.canon.ca/fr/accueil",
+          "urlHash": "d614014b9db96a78efb5bea66b1760f05e19e7d7",
+          "uuid": "d614014b-10-fee2f07354765b3d33decd74d0d5d7df66f3a1c5",
+          "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.canon.ca/en/home",
+          "urlHash": "f33a64c343d5530b20d0a691f2ec907a25abf85f",
+          "uuid": "f33a64c3-05-7a6cd1347c85aea75d81668b45bb484b96938eb6",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.canon.ca/en/home",
+          "urlHash": "f33a64c343d5530b20d0a691f2ec907a25abf85f",
+          "uuid": "f33a64c3-08-3ee6f971de288ed1d5334293b983ec6af4dba44e",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.canon.ca/en/home",
+          "urlHash": "f33a64c343d5530b20d0a691f2ec907a25abf85f",
+          "uuid": "f33a64c3-10-fee2f07354765b3d33decd74d0d5d7df66f3a1c5",
+          "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/div[1]/div[1]",
+          "section": "section-2"
         }
       ]
     },
     {
-      "name": "Cards (no images)",
+      "name": "Columns",
       "cluster": 4,
-      "source": "Cards",
-      "target": "Cards (cardsNoImages4)",
-      "key": "cardsNoImages4",
+      "source": "Columns block",
+      "target": "Columns block (columns4)",
+      "key": "columns4",
       "instances": [
         {
-          "url": "https://personal-site-gamma-five.vercel.app/blog",
-          "urlHash": "076b68482552cced2b900118d2cb11cff1dfb2f2",
-          "uuid": "076b6848-03-a7ffa77f59d6425cb85d06697fffae2af5eaa609",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+          "url": "https://www.canon.ca/fr/accueil",
+          "urlHash": "d614014b9db96a78efb5bea66b1760f05e19e7d7",
+          "uuid": "d614014b-12-809a63aa44942df4df485320321aaf57eb447497",
+          "xpath": "/html[1]/body[1]/div[1]/div[8]/div[1]/div[1]/footer[1]/div[2]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.canon.ca/en/home",
+          "urlHash": "f33a64c343d5530b20d0a691f2ec907a25abf85f",
+          "uuid": "f33a64c3-12-809a63aa44942df4df485320321aaf57eb447497",
+          "xpath": "/html[1]/body[1]/div[1]/div[8]/div[1]/div[1]/footer[1]/div[2]",
+          "section": "section-4"
         }
       ]
     },
@@ -164,199 +173,155 @@
       "key": "header5",
       "instances": [
         {
-          "url": "https://personal-site-gamma-five.vercel.app/blog",
-          "urlHash": "076b68482552cced2b900118d2cb11cff1dfb2f2",
-          "uuid": "076b6848-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
-          "xpath": "/html[1]/body[1]/div[1]/nav[1]",
+          "url": "https://www.canon.ca/fr/accueil",
+          "urlHash": "d614014b9db96a78efb5bea66b1760f05e19e7d7",
+          "uuid": "d614014b-00-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]",
           "section": "section-1"
         },
         {
-          "url": "https://personal-site-gamma-five.vercel.app/contact",
-          "urlHash": "2bd9fd0a5dadccdcfbdcbecf9fde06432c01393f",
-          "uuid": "2bd9fd0a-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
-          "xpath": "/html[1]/body[1]/div[1]/nav[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://personal-site-gamma-five.vercel.app/experience",
-          "urlHash": "53f2475d085bbf6aa3086be22c55ab2e2ce3ae4b",
-          "uuid": "53f2475d-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
-          "xpath": "/html[1]/body[1]/div[1]/nav[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://personal-site-gamma-five.vercel.app/about",
-          "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
-          "uuid": "885d57a4-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
-          "xpath": "/html[1]/body[1]/div[1]/nav[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://personal-site-gamma-five.vercel.app/",
-          "urlHash": "c89f9f5f72d94195a789798005a1a7651d5da4e1",
-          "uuid": "c89f9f5f-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
-          "xpath": "/html[1]/body[1]/div[1]/nav[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://personal-site-gamma-five.vercel.app/projects",
-          "urlHash": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c",
-          "uuid": "d1fca7f6-00-8b843b6e4e039a4266a94f9c3b7c630eefd81f74",
-          "xpath": "/html[1]/body[1]/div[1]/nav[1]",
+          "url": "https://www.canon.ca/en/home",
+          "urlHash": "f33a64c343d5530b20d0a691f2ec907a25abf85f",
+          "uuid": "f33a64c3-00-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]",
           "section": "section-1"
         }
       ]
     },
     {
-      "name": "Cards (no images)",
+      "name": "Cards",
       "cluster": 6,
       "source": "Cards",
-      "target": "Cards (cardsNoImages6)",
-      "key": "cardsNoImages6",
+      "target": "Cards (cards6)",
+      "key": "cards6",
       "instances": [
         {
-          "url": "https://personal-site-gamma-five.vercel.app/experience",
-          "urlHash": "53f2475d085bbf6aa3086be22c55ab2e2ce3ae4b",
-          "uuid": "53f2475d-02-a7ffa77f59d6425cb85d06697fffae2af5eaa609",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+          "url": "https://www.canon.ca/fr/accueil",
+          "urlHash": "d614014b9db96a78efb5bea66b1760f05e19e7d7",
+          "uuid": "d614014b-06-0f1d7f5df3d5be3c797f8c344329fe6d7acc6cbe",
+          "xpath": "/html[1]/body[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.canon.ca/en/home",
+          "urlHash": "f33a64c343d5530b20d0a691f2ec907a25abf85f",
+          "uuid": "f33a64c3-06-0f1d7f5df3d5be3c797f8c344329fe6d7acc6cbe",
+          "xpath": "/html[1]/body[1]/div[1]/div[5]"
         }
       ]
     },
     {
-      "name": "Cards (no images)",
+      "name": "unknown",
       "cluster": 7,
-      "source": "Cards",
-      "target": "Cards (cardsNoImages7)",
-      "key": "cardsNoImages7",
       "instances": [
         {
-          "url": "https://personal-site-gamma-five.vercel.app/projects",
-          "urlHash": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c",
-          "uuid": "d1fca7f6-03-a7ffa77f59d6425cb85d06697fffae2af5eaa609",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+          "url": "https://www.canon.ca/fr/accueil",
+          "urlHash": "d614014b9db96a78efb5bea66b1760f05e19e7d7",
+          "uuid": "d614014b-11-05062e4566abde98f9fe8d252cc4e48eb259f2f1",
+          "xpath": "/html[1]/body[1]/div[1]/div[8]/div[1]/div[1]/footer[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.canon.ca/en/home",
+          "urlHash": "f33a64c343d5530b20d0a691f2ec907a25abf85f",
+          "uuid": "f33a64c3-11-05062e4566abde98f9fe8d252cc4e48eb259f2f1",
+          "xpath": "/html[1]/body[1]/div[1]/div[8]/div[1]/div[1]/footer[1]/div[1]",
+          "section": "section-3"
         }
       ]
     }
   ],
   "outliers": [
     {
-      "url": "https://personal-site-gamma-five.vercel.app/blog",
-      "urlHash": "076b68482552cced2b900118d2cb11cff1dfb2f2",
-      "uuid": "076b6848-01-b295441a978df34cb3edad9a984b86c12c551b4c",
-      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/h1[1]"
+      "url": "https://www.canon.ca/fr/accueil",
+      "urlHash": "d614014b9db96a78efb5bea66b1760f05e19e7d7",
+      "uuid": "d614014b-02-8fa57d3fffe1b72897f212a81f4b7abc173d7276",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
     },
     {
-      "url": "https://personal-site-gamma-five.vercel.app/blog",
-      "urlHash": "076b68482552cced2b900118d2cb11cff1dfb2f2",
-      "uuid": "076b6848-02-d2c1b04d4936a3b1071e47ce6705a82edd395079",
-      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/p[1]"
-    },
-    {
-      "url": "https://personal-site-gamma-five.vercel.app/blog",
-      "urlHash": "076b68482552cced2b900118d2cb11cff1dfb2f2",
-      "uuid": "076b6848-04-df2d8614774e18e1b8dccbc899c3c4aee180c525",
-      "xpath": "/html[1]/body[1]/div[1]/footer[1]",
+      "url": "https://www.canon.ca/fr/accueil",
+      "urlHash": "d614014b9db96a78efb5bea66b1760f05e19e7d7",
+      "uuid": "d614014b-04-b742eb505121ec21547a22deaca87bbf52e1d725",
+      "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/h2[1]",
       "section": "section-2"
     },
     {
-      "url": "https://personal-site-gamma-five.vercel.app/contact",
-      "urlHash": "2bd9fd0a5dadccdcfbdcbecf9fde06432c01393f",
-      "uuid": "2bd9fd0a-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
-      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+      "url": "https://www.canon.ca/fr/accueil",
+      "urlHash": "d614014b9db96a78efb5bea66b1760f05e19e7d7",
+      "uuid": "d614014b-07-d5ea6c4a49b2fec0971788a7abf7caff15333877",
+      "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
     },
     {
-      "url": "https://personal-site-gamma-five.vercel.app/contact",
-      "urlHash": "2bd9fd0a5dadccdcfbdcbecf9fde06432c01393f",
-      "uuid": "2bd9fd0a-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
-      "xpath": "/html[1]/body[1]/div[1]/footer[1]",
+      "url": "https://www.canon.ca/fr/accueil",
+      "urlHash": "d614014b9db96a78efb5bea66b1760f05e19e7d7",
+      "uuid": "d614014b-09-d7f9b568e88a4c3bfe4161c3a56c305a0e8750b9",
+      "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/div[1]/h2[1]",
       "section": "section-2"
     },
     {
-      "url": "https://personal-site-gamma-five.vercel.app/experience",
-      "urlHash": "53f2475d085bbf6aa3086be22c55ab2e2ce3ae4b",
-      "uuid": "53f2475d-01-b295441a978df34cb3edad9a984b86c12c551b4c",
-      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/h1[1]"
+      "url": "https://www.canon.ca/fr/accueil",
+      "urlHash": "d614014b9db96a78efb5bea66b1760f05e19e7d7",
+      "uuid": "d614014b-13-157c68a7e65550906d51095d6faedc8d84e7d232",
+      "xpath": "/html[1]/body[1]/div[1]/div[8]/div[1]/div[1]/footer[1]/div[3]",
+      "section": "section-1"
     },
     {
-      "url": "https://personal-site-gamma-five.vercel.app/experience",
-      "urlHash": "53f2475d085bbf6aa3086be22c55ab2e2ce3ae4b",
-      "uuid": "53f2475d-03-df2d8614774e18e1b8dccbc899c3c4aee180c525",
-      "xpath": "/html[1]/body[1]/div[1]/footer[1]",
+      "url": "https://www.canon.ca/en/home",
+      "urlHash": "f33a64c343d5530b20d0a691f2ec907a25abf85f",
+      "uuid": "f33a64c3-02-8fa57d3fffe1b72897f212a81f4b7abc173d7276",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.canon.ca/en/home",
+      "urlHash": "f33a64c343d5530b20d0a691f2ec907a25abf85f",
+      "uuid": "f33a64c3-04-b742eb505121ec21547a22deaca87bbf52e1d725",
+      "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/h2[1]",
       "section": "section-2"
     },
     {
-      "url": "https://personal-site-gamma-five.vercel.app/about",
-      "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
-      "uuid": "885d57a4-01-a7ffa77f59d6425cb85d06697fffae2af5eaa609",
-      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+      "url": "https://www.canon.ca/en/home",
+      "urlHash": "f33a64c343d5530b20d0a691f2ec907a25abf85f",
+      "uuid": "f33a64c3-07-d5ea6c4a49b2fec0971788a7abf7caff15333877",
+      "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
     },
     {
-      "url": "https://personal-site-gamma-five.vercel.app/about",
-      "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
-      "uuid": "885d57a4-02-d2c893e7856c5569222f8768b931c4ccec9e90f1",
-      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[2]/h2[1]"
-    },
-    {
-      "url": "https://personal-site-gamma-five.vercel.app/about",
-      "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
-      "uuid": "885d57a4-04-87b45918a3d04ebcec21a5697b34ae3e5b959af7",
-      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[3]"
-    },
-    {
-      "url": "https://personal-site-gamma-five.vercel.app/about",
-      "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
-      "uuid": "885d57a4-05-c000e3be9f3b96973bff2c258afe247f3c7b07ca",
-      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[4]"
-    },
-    {
-      "url": "https://personal-site-gamma-five.vercel.app/about",
-      "urlHash": "885d57a42cc1461c6d5b0009da39392526862bba",
-      "uuid": "885d57a4-06-df2d8614774e18e1b8dccbc899c3c4aee180c525",
-      "xpath": "/html[1]/body[1]/div[1]/footer[1]",
+      "url": "https://www.canon.ca/en/home",
+      "urlHash": "f33a64c343d5530b20d0a691f2ec907a25abf85f",
+      "uuid": "f33a64c3-09-d7f9b568e88a4c3bfe4161c3a56c305a0e8750b9",
+      "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/div[1]/h2[1]",
       "section": "section-2"
     },
     {
-      "url": "https://personal-site-gamma-five.vercel.app/",
-      "urlHash": "c89f9f5f72d94195a789798005a1a7651d5da4e1",
-      "uuid": "c89f9f5f-03-df2d8614774e18e1b8dccbc899c3c4aee180c525",
-      "xpath": "/html[1]/body[1]/div[1]/footer[1]",
-      "section": "section-2"
-    },
-    {
-      "url": "https://personal-site-gamma-five.vercel.app/projects",
-      "urlHash": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c",
-      "uuid": "d1fca7f6-01-b295441a978df34cb3edad9a984b86c12c551b4c",
-      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/h1[1]"
-    },
-    {
-      "url": "https://personal-site-gamma-five.vercel.app/projects",
-      "urlHash": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c",
-      "uuid": "d1fca7f6-02-d2c1b04d4936a3b1071e47ce6705a82edd395079",
-      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/p[1]"
-    },
-    {
-      "url": "https://personal-site-gamma-five.vercel.app/projects",
-      "urlHash": "d1fca7f62d108b720bdf3257d1da8b2334b6a04c",
-      "uuid": "d1fca7f6-04-df2d8614774e18e1b8dccbc899c3c4aee180c525",
-      "xpath": "/html[1]/body[1]/div[1]/footer[1]",
-      "section": "section-2"
+      "url": "https://www.canon.ca/en/home",
+      "urlHash": "f33a64c343d5530b20d0a691f2ec907a25abf85f",
+      "uuid": "f33a64c3-13-157c68a7e65550906d51095d6faedc8d84e7d232",
+      "xpath": "/html[1]/body[1]/div[1]/div[8]/div[1]/div[1]/footer[1]/div[3]",
+      "section": "section-1"
     }
   ],
   "sections": [
     {
       "name": "section-1",
-      "background": "oklab(0.21 -0.00316127 -0.0338527 / 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 6
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 12
     },
     {
       "name": "section-2",
-      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 6
+      "background": "rgb(232, 233, 234) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 8
     },
     {
       "name": "section-3",
-      "background": "oklch(0.985 0.002 247.839) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 1
+      "background": "rgb(220, 221, 222) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-4",
+      "background": "rgb(248, 248, 248) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 2
     }
   ]
 }
